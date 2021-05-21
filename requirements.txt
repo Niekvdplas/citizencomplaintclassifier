@@ -31,4 +31,4 @@ sklearn == 0.0
 stopwordsiso == 0.5.1
 
 # E:\colling\TrainSupersetClassifier.py: 1
-tensorflow == 2.1.0
+tensorflow == 2.5.0
