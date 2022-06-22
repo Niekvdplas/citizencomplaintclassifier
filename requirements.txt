@@ -9,7 +9,7 @@ ktrain == 0.17.3
 matplotlib == 3.0.3
 
 # E:\colling\TrainSupersetClassifier.py: 10
-numpy == 1.18.1
+numpy == 1.22.0
 
 # E:\colling\SupersetBaseline.py: 2
 # E:\colling\TrainSupersetClassifier.py: 5
